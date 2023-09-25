@@ -1,0 +1,21 @@
+< Admission information>
+
+   <candidate >      
+  <SL.NO>   23  </ SL.NO >
+  <name>  John Carter </name>
+  <admission date>  25/12/2015      </admission date>
+   </candidate >  
+  
+  <candidate >      
+  <SL.NO>   29  </ SL.NO >
+  <name>  Bob Marshal </name>
+  <admission date>  13/1 /1999     </admission date>
+   </candidate >
+  
+  <candidate >      
+  <SL.NO>   35  </ SL.NO >
+  <name>  Clark Kent </name>
+  <admission date>  13/1 /1999     </admission date>
+   </candidate >
+   
+   < /Admission information>

@@ -1,0 +1,31 @@
+ < officers >
+
+ < officer >
+  <name>  John Doe </name>
+  <road>  #38,R #3      </road>
+  <home>   Banani, Dhaka   </home>
+  <department>   Sales  <department>
+  <salary>  $ 20000 </salary>
+  
+  < /officer > 
+  
+  
+  < officer >
+  <name>  Mark Zuckerberg </name>
+  <road>  Flat#A/1 , H#20, R#18     </road>
+  <home>   Mirpur, Dhaka   </home>
+  <department>   Accounts  <department>
+  <salary>  $ 12000  </salary>
+  < /officer > 
+  
+  
+   < officer >
+  <name>  Ala Voski </name>
+  <road>    #38,R #3     </road>
+ 
+  <home>   Motijheel   </home>
+  <department>   Human Resource  <department>
+  <salary>  $ 30000  </salary>
+   < /officer > 
+  
+  < /officers >
